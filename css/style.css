@@ -1,0 +1,10 @@
+body{
+    background-color: lavender;
+    font-family: sans-serif;
+}
+.catie{
+    border-color:pink;
+    border-style: ridge;
+    border-width: 7px;
+    
+}
